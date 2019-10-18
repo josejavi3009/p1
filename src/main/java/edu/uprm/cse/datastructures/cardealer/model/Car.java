@@ -81,5 +81,4 @@ public class Car {
 		return "Car [carId=" + carId + ", carBrand=" + carBrand + ", carModel=" + carModel + ", carModelOption="
 				+ carModelOption + ", carPrice=" + carPrice + "]";
 	}
-	
 }
